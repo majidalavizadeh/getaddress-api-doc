@@ -1,0 +1,27 @@
+_id: req_62f47221d38043059bb6f12335798830
+type: Request
+parentId: wrk_87f35929f0814b418971b6fbadc768e2
+modified: 1693318111527
+created: 1693318080349
+url: "{{ _.API_URL }}/v1/{{ _.TOKEN }}/street"
+name: Search by Street
+description: ""
+method: GET
+body:
+  mimeType: multipart/form-data
+parameters:
+  - name: query
+    value: Anthonetta
+    disabled: false
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+authentication: {}
+metaSortKey: -1693318080349
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
