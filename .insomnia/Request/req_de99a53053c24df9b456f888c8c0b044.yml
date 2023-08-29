@@ -1,7 +1,7 @@
 _id: req_de99a53053c24df9b456f888c8c0b044
 type: Request
 parentId: wrk_87f35929f0814b418971b6fbadc768e2
-modified: 1693317966108
+modified: 1693318308743
 created: 1693317761598
 url: "{{ _.API_URL }}/v1/{{ _.TOKEN }}/postcode"
 name: Search by Postcode
@@ -13,9 +13,16 @@ parameters:
   - name: query
     value: 3066gs
     disabled: false
+    id: pair_48a56fa0373b42c5aa3b503b84d80372
   - name: number
     value: "48"
     disabled: false
+    id: pair_5f51a4ad2b6a4a0c9a5355b403bbe386
+  - id: pair_3848c29e633f483293d755d312b918cb
+    name: letter
+    value: a
+    description: ""
+    disabled: true
 headers:
   - name: Content-Type
     value: multipart/form-data
