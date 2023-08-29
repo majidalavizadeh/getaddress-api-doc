@@ -1,0 +1,16 @@
+_id: env_16ac84140ae7fa12edbce8df2395781a6b4c6dd2
+type: Environment
+parentId: wrk_87f35929f0814b418971b6fbadc768e2
+modified: 1693317885194
+created: 1693317480856
+name: Base Environment
+data:
+  API_URL: http://ds.local:8000
+  TOKEN: MAJID
+dataPropertyOrder:
+  "&":
+    - API_URL
+    - TOKEN
+color: null
+isPrivate: false
+metaSortKey: 1693317480856
