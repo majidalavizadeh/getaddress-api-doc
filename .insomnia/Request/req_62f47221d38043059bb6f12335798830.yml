@@ -1,7 +1,7 @@
 _id: req_62f47221d38043059bb6f12335798830
 type: Request
 parentId: wrk_87f35929f0814b418971b6fbadc768e2
-modified: 1693318111527
+modified: 1693318278207
 created: 1693318080349
 url: "{{ _.API_URL }}/v1/{{ _.TOKEN }}/street"
 name: Search by Street
@@ -13,6 +13,17 @@ parameters:
   - name: query
     value: Anthonetta
     disabled: false
+    id: pair_99c7b2441ea648c2aca7ce77f68b45f2
+  - id: pair_6089ae2645b5465bb588eaa08d0751e4
+    name: city
+    value: rotterdam
+    description: ""
+    disabled: true
+  - id: pair_ef2cfbe5cac8463282bef143712944b8
+    name: limit
+    value: "20"
+    description: ""
+    disabled: true
 headers:
   - name: Content-Type
     value: multipart/form-data
