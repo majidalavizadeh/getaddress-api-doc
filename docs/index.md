@@ -15,7 +15,7 @@ GetAddress.nl is a **personal project** built by [Majid Alavizadeh](https://gith
   - **Number of rooms** in the house.
   - more ...
 
-For more details, check the [API Endpoints](how-it-works.md).
+For more details, check the [API Endpoints](endpoints.md).
 
 ---
 
@@ -39,7 +39,7 @@ Understand where the data comes from and how it's updated.
 
 Get details on how to retrieve addresses and property data.
 
-- 🔧 **[Endpoints](endpoints.md)**
+- 🔧 **[API Endpoints](endpoints.md)**
 
 ---
 

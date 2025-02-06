@@ -4,7 +4,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Endpoints: endpoints.md
+  - API Endpoints: endpoints.md
   - Data Source: source.md
 
 repo_url: "https://github.com/majidalavizadeh/getaddress-api-doc"
