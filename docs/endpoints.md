@@ -188,17 +188,17 @@ GET https://api.getaddress.nl/v1/API_KEY/types
 
 ## 🚀 How to Use the API
 
-1. **Request an API key** by emailing **hi@getaddress.nl**.
+1. **Request an API key** by emailing your domain name to **hi@getaddress.nl**.
 2. Use the **GET** requests shown above to retrieve data.
-3. If you expect **high traffic**, inform the developer in advance.
+3. If you expect **high traffic**, inform me in advance.
 
 ---
 
-## 🤝 Contribute & Support
+## 💡 Suggestions & Support
 
-GetAddress.nl is a **developer-friendly** service, and contributions are welcome!
+This project was built **by a developer, for developers**. If you have an **idea, request, bug report, or issue**, feel free to reach out:
 
-- If you find issues or want to improve the service, **submit a pull request** on [GitHub](https://github.com/majidalavizadeh/getaddress-api-doc).
-- You can also **update this documentation** to keep it accurate and useful.
+- Drop me a message at [hi@getaddress.nl](mailto:hi@getaddress.nl).
+- Share your feedback or suggestions.
 
-Happy coding! 🚀
+Let’s make [**GetAddress.nl**](http://getaddress.nl) even better together!

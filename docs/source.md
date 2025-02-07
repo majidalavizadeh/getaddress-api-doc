@@ -39,4 +39,4 @@ The address and property data from Kadaster is:
 
 ## 🚀 Contribute & Improve
 
-If you have suggestions or find outdated data, feel free to contribute by submitting an **issue or pull request** on [GitHub](https://github.com/majidalavizadeh/getaddress-api-doc).
+If you have any suggestions or notice outdated information, feel free to email me at hi@getaddress.nl.

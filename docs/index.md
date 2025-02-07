@@ -23,7 +23,7 @@ For more details, check the [API Endpoints](endpoints.md).
 
 Using GetAddress.nl is **completely free**, but you need an **API key**.
 
-- 📧 Email **hi@getaddress.nl** to request your API key.
+- Send your domain name to hi@getaddress.nl to request your API key.
 - **Important:** If your website has **high traffic** and will send **many requests**, please inform me in advance.
 
 ---
@@ -43,12 +43,11 @@ Get details on how to retrieve addresses and property data.
 
 ---
 
-## 🤝 Contribute & Support
+## 💡 Suggestions & Support
 
-This project was built **by a developer, for developers**. If you have an idea or want to **contribute**, feel free to:
+This project was built **by a developer, for developers**. If you have an **idea, request, bug report, or issue**, feel free to reach out:
 
-- Open an **issue or pull request** on [GitHub](https://github.com/majidalavizadeh/getaddress-api-doc).
-- Improve this **documentation**.
-- Contact me if you want to **help extend this project**.
+- Drop me a message at [hi@getaddress.nl](mailto:hi@getaddress.nl).
+- Share your feedback or suggestions.
 
-Let’s make [**GetAddress.nl**](http://getaddress.nl) even better together! 🚀
+Let’s make [**GetAddress.nl**](http://getaddress.nl) even better together!
